@@ -29,5 +29,5 @@ Metamart envisions a future where e-commerce is fully decentralized, offering us
 
 - **Developer :** Bibek Das
 - **Email :** bibekdas765@gmail.com
-- **GitHub :**  
+- **GitHub :**  https://github.com/R3cklessBoi/metamart
 - **LinkedIn :** www.linkedin.com/in/bibek-das-370817259
